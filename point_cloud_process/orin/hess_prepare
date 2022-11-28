@@ -1,0 +1,7 @@
+1.txt_data_cut.txt_reprocess emove str in data
+2.main.txt2npy #change data type
+3.filepath.area_add #add area in filename
+
+5.generate_paconv_h5 #generate h5s and list.txt
+6.change yaml
+7.train
